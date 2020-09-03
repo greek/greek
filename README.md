@@ -1,6 +1,5 @@
 hi im andreas
-i was born.. well you can guess where I was born
-but i live in 'merica
+i was born.. well you can guess where I was born but i live in 'merica
 
 i like:
   * coding

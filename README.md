@@ -1,3 +1,3 @@
 <center>
- <span class="font-size: 52px">🦇</span>
+ <span class="font-size: 52px">scarecrow.</span>
  </center>

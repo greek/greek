@@ -1,3 +1,3 @@
 <center>
- <h1>🦇</h1>
+ <span style="font-size: 2em;">🦇</span>
  </center>
